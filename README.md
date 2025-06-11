@@ -29,5 +29,12 @@ Je partage ici mes retours d’expérience, tutoriels, astuces dev, DevOps, séc
 
 ---
 
+## ⚖️ Licence
+
+Ce blog est sous licence [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+Vous pouvez réutiliser, partager, adapter, à condition de mentionner l’auteur.
+
+---
+
 > “Partager, c’est progresser.”  
 > Raymond ODOUNHITAN
